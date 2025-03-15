@@ -1,6 +1,8 @@
 ## go misc code
 
-### go
+### go posts
+
+[https://medium.com/tag/golang](https://medium.com/tag/golang)
 
 [8 Golang Performance Tips](https://medium.com/deep-golang/8-python-performance-tips-i-discovered-after-years-of-coding-in-golang-764375658d90)
 
@@ -13,6 +15,10 @@
 [Mastering Concurrency in Go: From Goroutines to Semaphores](https://medium.com/@ahamrouni/mastering-concurrency-in-go-from-goroutines-to-semaphores-123fdd150213)
 
 [understand goroutines deadlocks](https://coffeebytes.dev/en/go-channels-understanding-the-goroutines-deadlocks/)
+
+### concurrency
+
+[Go Concurrency: Choosing Between sync.Mutex and Channels](https://medium.com/@siddharthnarayan/go-concurrency-choosing-between-sync-mutex-and-channels-509b53fc93c7)
 
 ### others
 
