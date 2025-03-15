@@ -4,6 +4,8 @@
 
 [https://medium.com/tag/golang](https://medium.com/tag/golang)
 
+[Learning go series](https://levelup.gitconnected.com/learning-go-part-ten-builder-pattern-logging-testing-effdcf94c244)
+
 [8 Golang Performance Tips](https://medium.com/deep-golang/8-python-performance-tips-i-discovered-after-years-of-coding-in-golang-764375658d90)
 
 ### goroutine
@@ -15,6 +17,8 @@
 [Mastering Concurrency in Go: From Goroutines to Semaphores](https://medium.com/@ahamrouni/mastering-concurrency-in-go-from-goroutines-to-semaphores-123fdd150213)
 
 [understand goroutines deadlocks](https://coffeebytes.dev/en/go-channels-understanding-the-goroutines-deadlocks/)
+
+[https://coffeebytes.dev/en/go-channels-understanding-the-goroutines-deadlocks/](https://coffeebytes.dev/en/go-channels-understanding-the-goroutines-deadlocks/)
 
 ### concurrency
 
