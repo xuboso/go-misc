@@ -48,9 +48,19 @@
 
 [https://towardsdev.com/how-context-in-go-made-my-code-smarter-safer-and-easier-to-scale-87d6f392a3b6](https://towardsdev.com/how-context-in-go-made-my-code-smarter-safer-and-easier-to-scale-87d6f392a3b6)
 
+### Application Trace & Monitor
+
+[https://opentelemetry.io/](https://opentelemetry.io/)
+
+[https://www.jaegertracing.io/](https://www.jaegertracing.io/)
+
 ### read more code
 
 [https://www.bytesizego.com/blog/read-more-go-code](https://www.bytesizego.com/blog/read-more-go-code)
+
+[https://github.com/bufbuild/buf](https://github.com/bufbuild/buf)
+
+[https://github.com/jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
 
 ### others
 
