@@ -18,6 +18,10 @@
 
 [https://www.bytesizego.com/blog/reading-file-line-by-line-golang](https://www.bytesizego.com/blog/reading-file-line-by-line-golang)
 
+[how to really learn go](https://bitfieldconsulting.com/posts/how)
+
+[https://bitfieldconsulting.com/posts/generics](https://bitfieldconsulting.com/posts/generics)
+
 ### goroutine
 
 [https://gist.github.com/jboursiquot/ef53edb815fe18c8160dbe8504dd9d60](https://gist.github.com/jboursiquot/ef53edb815fe18c8160dbe8504dd9d60)
@@ -69,6 +73,12 @@
 [https://github.com/bufbuild/buf](https://github.com/bufbuild/buf)
 
 [https://github.com/jaegertracing/jaeger](https://github.com/jaegertracing/jaeger)
+
+[https://github.com/sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc)
+
+[https://github.com/rs/zerolog](https://github.com/rs/zerolog)
+
+[https://github.com/joho/godotenv](https://github.com/joho/godotenv)
 
 ### others
 
