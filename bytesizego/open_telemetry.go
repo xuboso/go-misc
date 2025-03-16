@@ -1,3 +1,6 @@
+/**
+ * https://www.bytesizego.com/blog/open-telemetry-using-go
+ */
 package main
 
 import (
