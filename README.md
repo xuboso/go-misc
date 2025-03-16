@@ -30,6 +30,16 @@
 
 [Go Concurrency: Choosing Between sync.Mutex and Channels](https://medium.com/@siddharthnarayan/go-concurrency-choosing-between-sync-mutex-and-channels-509b53fc93c7)
 
+### concurrency reading large file
+
+[https://hackernoon.com/leveraging-multithreading-to-read-large-files-faster-in-go-lmn32t7](https://hackernoon.com/leveraging-multithreading-to-read-large-files-faster-in-go-lmn32t7)
+
+[https://medium.com/@mohdgadi52/leveraging-multithreading-to-read-large-files-faster-in-go-cfb9d6a77aeb](https://medium.com/@mohdgadi52/leveraging-multithreading-to-read-large-files-faster-in-go-cfb9d6a77aeb)
+
+[https://medium.com/@snassr/processing-large-files-in-go-golang-6ea87effbfe2](https://medium.com/@snassr/processing-large-files-in-go-golang-6ea87effbfe2)
+
+[https://www.codingexplorations.com/blog/efficient-file-processing-in-go-leveraging-worker-groups-and-goroutines](https://www.codingexplorations.com/blog/efficient-file-processing-in-go-leveraging-worker-groups-and-goroutines)
+
 ### context
 
 [https://towardsdev.com/how-context-in-go-made-my-code-smarter-safer-and-easier-to-scale-87d6f392a3b6](https://towardsdev.com/how-context-in-go-made-my-code-smarter-safer-and-easier-to-scale-87d6f392a3b6)
