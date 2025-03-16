@@ -2,22 +2,12 @@ package main
 
 import "fmt"
 
-type BigList struct {
-	values [1000000]int
-}
-
-func update_by_value(d BigList) {
-	d.values[0] = 50
-}
-
-func update_by_pointer(d *BigList) {
-	d.values[0] = 50
-}
-
 func main() {
-	d := BigList{}
-	update_by_pointer(&d) // fast, no copy
-	fmt.Println(d.values[0])
-	update_by_value(d) // slow, copies everything
-	fmt.Println(d.values[0])
+	var num int = 10
+	var ptr *int = &num // Pointer stores the address of num
+
+	fmt.Println("Before modification, num:", num) // Before modification, num: 10
+
+	*ptr = 100                                   // Modifying the value at the memory address
+	fmt.Println("After modification, num:", num) // After modification, num: 100
 }

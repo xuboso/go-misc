@@ -4,7 +4,11 @@
 
 [https://medium.com/tag/golang](https://medium.com/tag/golang)
 
+[https://go101.org/article/reflection.html](https://go101.org/article/reflection.html)
+
 [https://coffeebytes.dev/en/categories/go](https://coffeebytes.dev/en/categories/go)
+
+[https://notes.shichao.io/gopl/ch8/](https://notes.shichao.io/gopl/ch8/)
 
 [Learning go series](https://levelup.gitconnected.com/learning-go-part-ten-builder-pattern-logging-testing-effdcf94c244)
 
