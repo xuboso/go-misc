@@ -8,11 +8,15 @@
 
 [https://coffeebytes.dev/en/categories/go](https://coffeebytes.dev/en/categories/go)
 
+[https://hackernoon.com/tagged/go](https://hackernoon.com/tagged/go)
+
 [https://notes.shichao.io/gopl/ch8/](https://notes.shichao.io/gopl/ch8/)
 
 [Learning go series](https://levelup.gitconnected.com/learning-go-part-ten-builder-pattern-logging-testing-effdcf94c244)
 
 [8 Golang Performance Tips](https://medium.com/deep-golang/8-python-performance-tips-i-discovered-after-years-of-coding-in-golang-764375658d90)
+
+[https://www.bytesizego.com/blog/reading-file-line-by-line-golang](https://www.bytesizego.com/blog/reading-file-line-by-line-golang)
 
 ### goroutine
 
