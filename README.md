@@ -48,6 +48,10 @@
 
 [https://towardsdev.com/how-context-in-go-made-my-code-smarter-safer-and-easier-to-scale-87d6f392a3b6](https://towardsdev.com/how-context-in-go-made-my-code-smarter-safer-and-easier-to-scale-87d6f392a3b6)
 
+### read more code
+
+[https://www.bytesizego.com/blog/read-more-go-code](https://www.bytesizego.com/blog/read-more-go-code)
+
 ### others
 
 [read limit medium posts](https://archive.ph/Vv0uk)
