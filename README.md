@@ -66,6 +66,8 @@
 
 [https://opentelemetry.io/blog/2022/go-web-app-instrumentation/](https://opentelemetry.io/blog/2022/go-web-app-instrumentation/)
 
+[https://req.cool/docs/examples/integrate-opentelemetry-and-jaeger/](https://req.cool/docs/examples/integrate-opentelemetry-and-jaeger/)
+
 ### read more code
 
 [https://www.bytesizego.com/blog/read-more-go-code](https://www.bytesizego.com/blog/read-more-go-code)
@@ -79,6 +81,10 @@
 [https://github.com/rs/zerolog](https://github.com/rs/zerolog)
 
 [https://github.com/joho/godotenv](https://github.com/joho/godotenv)
+
+### go with redis
+
+[https://github.com/betterstack-community/go-redis](https://github.com/betterstack-community/go-redis)
 
 ### others
 
